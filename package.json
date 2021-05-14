@@ -1,0 +1,30 @@
+{
+  "name": "@hadihallak/colors",
+  "version": "1.0.0",
+  "contributors": [
+    "Colm Tuite <colm@modulz.app>",
+    "Vlad Moroz <vlad@modulz.app>"
+  ],
+  "type": "module",
+  "scripts": {
+    "build": "yarn clean && tsc && yarn build-css-modules",
+    "clean": "rimraf dark light",
+    "build-css-modules": "node ./scripts/build-css-modules.js"
+  },
+  "files": [
+    "dark",
+    "light",
+    "index.d.ts",
+    "index.js"
+  ],
+  "keywords": [
+    "radix",
+    "colors"
+  ],
+  "devDependencies": {
+    "@types/node": "^15.0.3",
+    "typescript": "^4.2.4",
+    "rimraf": "3.0.2"
+  },
+  "license": "MIT"
+}

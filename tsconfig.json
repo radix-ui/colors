@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./",
+    "module": "esnext",
+    "target": "ES2019",
+    "lib": ["esnext"],
+    "declaration": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noEmit": false,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "isolatedModules": true
+  },
+  "include": ["./src"],
+  "exclude": ["./light", "./dark"]
+}
