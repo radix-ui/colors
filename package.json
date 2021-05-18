@@ -11,7 +11,7 @@
   "scripts": {
     "build": "rollup -c && yarn build-css-modules",
     "build-css-modules": "node ./scripts/build-css-modules.js",
-    "clean": "git clean -X"
+    "clean": "git clean -fdX"
   },
   "keywords": [
     "radix",
