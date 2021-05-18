@@ -1,5 +1,4 @@
 /node_modules/
-/types
 .DS_Store
 /*.css
 index.js
