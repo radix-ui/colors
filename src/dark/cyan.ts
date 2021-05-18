@@ -11,4 +11,3 @@ export const cyan = {
   cyan900: 'hsl(192 80% 47.1%)',
   cyan1000: 'hsl(185 73% 93.2%)',
 } as const
-export default cyan

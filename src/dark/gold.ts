@@ -11,4 +11,3 @@ export const gold = {
   gold900: 'hsl(35 50% 62.9%)',
   gold1000: 'hsl(49 52% 93.8%)',
 } as const
-export default gold

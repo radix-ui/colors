@@ -11,4 +11,3 @@ export const orange = {
   orange900: 'hsl(24 90% 60.2%)',
   orange1000: 'hsl(24 97% 93.2%)',
 } as const
-export default orange

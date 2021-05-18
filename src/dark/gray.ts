@@ -11,5 +11,3 @@ export const gray = {
   gray900: 'hsl(0 0% 52.9%)',
   gray1000: 'hsl(0 0% 93%)',
 } as const
-
-export default gray

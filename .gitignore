@@ -1,7 +1,5 @@
-/dark
-/light
 /node_modules
-
-/index.d.ts
-/index.js
 .DS_Store
+/*.css
+index.js
+index.mjs

@@ -11,4 +11,3 @@ export const lime = {
   lime900: 'hsl(81 70% 50%)',
   lime1000: 'hsl(84 79% 92.6%)',
 } as const
-export default lime

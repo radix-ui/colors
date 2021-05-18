@@ -11,4 +11,3 @@ export const red = {
   red900: 'hsl(358 100% 68%)',
   red1000: 'hsl(351 89% 96%)',
 } as const
-export default red

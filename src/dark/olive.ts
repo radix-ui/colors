@@ -11,4 +11,3 @@ export const olive = {
   olive900: 'hsl(110 5% 51.9%)',
   olive1000: 'hsl(110 6% 93%)',
 } as const
-export default olive

@@ -11,4 +11,3 @@ export const pink = {
   pink900: 'hsl(325 90% 67.1%)',
   pink1000: 'hsl(322 90% 95.8%)',
 } as const
-export default pink

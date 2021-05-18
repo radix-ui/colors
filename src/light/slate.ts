@@ -11,5 +11,3 @@ export const slate = {
   slate900: 'hsl(206 6% 43.5%)',
   slate1000: 'hsl(206 24% 9%)',
 } as const
-
-export default slate

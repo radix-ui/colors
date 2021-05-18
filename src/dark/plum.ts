@@ -11,4 +11,3 @@ export const plum = {
   plum900: 'hsl(300 75% 66.1%)',
   plum1000: 'hsl(296 74% 95.7%)',
 } as const
-export default plum

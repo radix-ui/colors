@@ -11,4 +11,3 @@ export const bronze = {
   bronze900: 'hsl(18 37% 61%)',
   bronze1000: 'hsl(18 57% 94.1%)',
 } as const
-export default bronze

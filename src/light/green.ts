@@ -11,4 +11,3 @@ export const green = {
   green900: 'hsl(153 67% 28.5%)',
   green1000: 'hsl(155 40% 14%)',
 } as const
-export default green

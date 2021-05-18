@@ -11,4 +11,3 @@ export const purple = {
   purple900: 'hsl(275 91% 71%)',
   purple1000: 'hsl(279 75% 95.7%)',
 } as const
-export default purple

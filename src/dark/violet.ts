@@ -11,4 +11,3 @@ export const violet = {
   violet900: 'hsl(250 100% 76.1%)',
   violet1000: 'hsl(252 87% 96.4%)',
 } as const
-export default violet

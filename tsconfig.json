@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "./",
+    "outDir": ".",
+    "declarationDir": "types",
     "module": "esnext",
     "target": "ES2019",
     "lib": ["esnext"],
@@ -8,11 +9,10 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "noEmit": false,
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
     "isolatedModules": true
   },
   "include": ["./src"],
-  "exclude": ["./light", "./dark"]
+  "exclude": ["/*.css", "/index.js", "/index.mjs"]
 }

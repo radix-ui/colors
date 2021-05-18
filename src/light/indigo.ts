@@ -11,4 +11,3 @@ export const indigo = {
   indigo900: 'hsl(226 55% 45%)',
   indigo1000: 'hsl(226 62% 17%)',
 } as const
-export default indigo

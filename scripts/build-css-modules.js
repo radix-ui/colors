@@ -1,27 +1,16 @@
-import fs from 'fs'
-import path from 'path'
+const fs = require('fs')
+const path = require('path')
+const allColorScales = require('../dist/index')
 
-const convertScalesToCssProperties = (colors) => {
-  return Object.entries(colors).map((scale) => {
-    const key = scale[0]
-    const values = Object.entries(scale[1])
-      .map((row) => {
-        return `  --${row[0]}: ${row[1]};`
-      })
-      .join('\n')
-    return `.${key}{\n${values}\n}`
-  })
-}
-import('../dark/index.js').then((module) => {
-  fs.writeFileSync(
-    path.resolve(process.cwd(), 'dark/theme.module.css'),
-    convertScalesToCssProperties({ ...module.default }).join('\n'),
-  )
-})
+const outputDir = require('../tsconfig.json').compilerOptions.outDir
 
-import('../light/index.js').then((module) => {
-  fs.writeFileSync(
-    path.resolve(process.cwd(), 'light/theme.module.css'),
-    convertScalesToCssProperties({ ...module.default }).join('\n'),
-  )
+Object.entries(allColorScales).forEach(([colorScaleName, scale]) => {
+  const selector = colorScaleName.endsWith('Dark') ? '.dark-theme' : ':root'
+  const scaleAssCssProperties = Object.entries(scale)
+    .map(([name, value]) => {
+      return `  --${name}: ${value};`
+    })
+    .join('\n')
+  const scaleAsCssFile = `${selector} {\n${scaleAssCssProperties}\n}`
+  fs.writeFileSync(path.join(outputDir, colorScaleName + '.css'), scaleAsCssFile)
 })

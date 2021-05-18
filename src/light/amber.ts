@@ -11,4 +11,4 @@ export const amber = {
   amber900: 'hsl(30 100% 34%)',
   amber1000: 'hsl(20 80% 17%)',
 } as const
-export default amber
+

@@ -11,5 +11,3 @@ export const sage = {
   sage900: 'hsl(155, 3%, 43%)',
   sage1000: 'hsl(155 24% 9%)',
 } as const
-
-export default sage

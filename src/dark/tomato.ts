@@ -11,4 +11,3 @@ export const tomato = {
   tomato900: 'hsl(10 100% 68%)',
   tomato1000: 'hsl(10 89% 96%)',
 } as const
-export default tomato

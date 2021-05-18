@@ -11,5 +11,3 @@ export const quartz = {
   quartz900: 'hsl(252 4% 45%)',
   quartz1000: 'hsl(260 25% 11%)',
 } as const
-
-export default quartz

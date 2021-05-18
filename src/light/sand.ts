@@ -11,4 +11,3 @@ export const sand = {
   sand900: 'hsl(50 2% 43.1%)',
   sand1000: 'hsl(50 6% 10%)',
 } as const
-export default sand

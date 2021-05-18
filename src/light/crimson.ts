@@ -11,4 +11,3 @@ export const crimson = {
   crimson900: 'hsl(336 75% 47.2%)',
   crimson1000: 'hsl(340 65% 14.5%)',
 } as const
-export default crimson

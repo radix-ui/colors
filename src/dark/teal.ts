@@ -11,4 +11,3 @@ export const teal = {
   teal900: 'hsl(174 90% 40%)',
   teal1000: 'hsl(166 73% 93.1%)',
 } as const
-export default teal

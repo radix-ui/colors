@@ -1,2 +1,2 @@
-export * as dark from './dark'
-export * as light from './light'
+export * from './dark'
+export * from './light'

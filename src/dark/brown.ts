@@ -11,4 +11,3 @@ export const brown = {
   brown900: 'hsl(28 60% 55.9%)',
   brown1000: 'hsl(30 67% 94%)',
 } as const
-export default brown
