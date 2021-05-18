@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const allColorScales = require('../dist/index')
+const allColorScales = require('../index')
 
 const outputDir = require('../tsconfig.json').compilerOptions.outDir
 

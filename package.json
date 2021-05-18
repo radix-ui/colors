@@ -1,6 +1,6 @@
 {
-  "name": "@hadihallak/colors",
-  "version": "2.0.0",
+  "name": "@radix-ui/colors",
+  "version": "1.0.0",
   "contributors": [
     "Colm Tuite <colm@modulz.app>",
     "Vlad Moroz <vlad@modulz.app>"
@@ -9,8 +9,9 @@
   "module": "index.mjs",
   "typings": "types/index.d.ts",
   "scripts": {
-    "build": "rollup -c && yarn build-css-modules",
+    "build": "yarn clean && yarn && rollup -c && yarn build-css-modules",
     "build-css-modules": "node ./scripts/build-css-modules.js",
+    "postpublish": "yarn clean",
     "clean": "git clean -fdX"
   },
   "keywords": [
