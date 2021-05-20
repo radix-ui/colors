@@ -1,6 +1,7 @@
 export { amber as amberDark } from './amber.js';
 export { blue as blueDark } from './blue.js';
 export { bronze as bronzeDark } from './bronze.js';
+export { brown as brownDark } from './brown.js';
 export { crimson as crimsonDark } from './crimson.js';
 export { cyan as cyanDark } from './cyan.js';
 export { gold as goldDark } from './gold.js';
