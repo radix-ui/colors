@@ -10,4 +10,4 @@ export const lime = {
   lime800: 'hsl(81 67% 50%)',
   lime900: 'hsl(81 70% 43.8%)',
   lime1000: 'hsl(84 79% 92.6%)',
-} as const;
+}

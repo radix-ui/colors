@@ -10,4 +10,4 @@ export const indigo = {
   indigo800: 'hsl(226 70% 55.5%)',
   indigo900: 'hsl(226 55% 45%)',
   indigo1000: 'hsl(226 62% 17%)',
-} as const;
+}

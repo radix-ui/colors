@@ -10,4 +10,4 @@ export const orange = {
   orange800: 'hsl(24 94% 50%)',
   orange900: 'hsl(24 100% 62.2%)',
   orange1000: 'hsl(24 97% 93.2%)',
-} as const;
+}

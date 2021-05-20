@@ -10,4 +10,4 @@ export const tomato = {
   tomato800: 'hsl(10 78% 54%)',
   tomato900: 'hsl(10 85% 62.8%)',
   tomato1000: 'hsl(10 89% 96%)',
-} as const;
+}

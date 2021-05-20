@@ -10,4 +10,4 @@ export const red = {
   red800: 'hsl(358 75% 59%)',
   red900: 'hsl(358 65% 48.7%)',
   red1000: 'hsl(354 50% 14.6%)',
-} as const;
+}

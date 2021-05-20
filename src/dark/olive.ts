@@ -10,4 +10,4 @@ export const olive = {
   olive800: 'hsl(110 6% 42.5%)',
   olive900: 'hsl(110 5% 61.8%)',
   olive1000: 'hsl(110 6% 93%)',
-} as const;
+}

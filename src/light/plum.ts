@@ -10,4 +10,4 @@ export const plum = {
   plum800: 'hsl(292 45% 51%)',
   plum900: 'hsl(292 60% 42.5%)',
   plum1000: 'hsl(291 66% 14%)',
-} as const;
+}

@@ -10,4 +10,4 @@ export const teal = {
   teal800: 'hsl(173 80% 36%)',
   teal900: 'hsl(174 90% 40.7%)',
   teal1000: 'hsl(166 73% 93.1%)',
-} as const;
+}

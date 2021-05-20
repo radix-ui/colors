@@ -10,4 +10,4 @@ export const crimson = {
   crimson800: 'hsl(336 80% 57.8%)',
   crimson900: 'hsl(336 75% 47.2%)',
   crimson1000: 'hsl(340 65% 14.5%)',
-} as const;
+}

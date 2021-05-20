@@ -10,4 +10,4 @@ export const grass = {
   grass800: 'hsl(131 41% 46.5%)',
   grass900: 'hsl(131 43% 57.2%)',
   grass1000: 'hsl(137 72% 94%)',
-} as const;
+}

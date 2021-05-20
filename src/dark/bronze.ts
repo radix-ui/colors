@@ -10,4 +10,4 @@ export const bronze = {
   bronze800: 'hsl(17 20% 54%)',
   bronze900: 'hsl(18 35% 68.5%)',
   bronze1000: 'hsl(18 57% 94.1%)',
-} as const;
+}

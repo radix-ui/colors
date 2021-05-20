@@ -10,4 +10,4 @@ export const mint = {
   mint800: 'hsl(167 65% 66%)',
   mint900: 'hsl(172 72% 28.5%)',
   mint1000: 'hsl(172 70% 12%)',
-} as const;
+}

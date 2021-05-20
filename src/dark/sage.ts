@@ -10,4 +10,4 @@ export const sage = {
   sage800: 'hsl(155 6% 42.5%)',
   sage900: 'hsl(155 5% 61.8%)',
   sage1000: 'hsl(155 6% 93%)',
-} as const;
+}

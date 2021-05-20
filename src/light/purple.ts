@@ -10,4 +10,4 @@ export const purple = {
   purple800: 'hsl(272 51% 54%)',
   purple900: 'hsl(272 50% 45.8%)',
   purple1000: 'hsl(272 66% 16%)',
-} as const;
+}

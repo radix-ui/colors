@@ -10,4 +10,4 @@ export const sand = {
   sand800: 'hsl(50 4% 42.7%)',
   sand900: 'hsl(50 4% 61.8%)',
   sand1000: 'hsl(56 4% 92.8%)',
-} as const;
+}

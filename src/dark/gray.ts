@@ -10,4 +10,4 @@ export const gray = {
   gray800: 'hsl(0 0% 43.9%)',
   gray900: 'hsl(0 0% 62.8%)',
   gray1000: 'hsl(0 0% 93%)',
-} as const;
+}

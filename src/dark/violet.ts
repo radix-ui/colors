@@ -10,4 +10,4 @@ export const violet = {
   violet800: 'hsl(252 56% 57.5%)',
   violet900: 'hsl(250 95% 76.8%)',
   violet1000: 'hsl(252 87% 96.4%)',
-} as const;
+}

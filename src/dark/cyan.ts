@@ -10,4 +10,4 @@ export const cyan = {
   cyan800: 'hsl(190 95% 39%)',
   cyan900: 'hsl(186 100% 42.2%)',
   cyan1000: 'hsl(185 73% 93.2%)',
-} as const;
+}

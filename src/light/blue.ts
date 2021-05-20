@@ -10,4 +10,4 @@ export const blue = {
   blue800: 'hsl(206 100% 50%)',
   blue900: 'hsl(211 100% 43.2%)',
   blue1000: 'hsl(211 100% 15%)',
-} as const;
+}

@@ -10,4 +10,4 @@ export const green = {
   green800: 'hsl(151 55% 41.5%)',
   green900: 'hsl(153 67% 28.5%)',
   green1000: 'hsl(155 40% 14%)',
-} as const;
+}

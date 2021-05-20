@@ -10,4 +10,4 @@ export const pink = {
   pink800: 'hsl(322 65% 54.5%)',
   pink900: 'hsl(325 90% 66.4%)',
   pink1000: 'hsl(322 90% 95.8%)',
-} as const;
+}

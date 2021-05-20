@@ -10,4 +10,4 @@ export const sky = {
   sky800: 'hsl(193 98% 70%)',
   sky900: 'hsl(192 85% 55.8%)',
   sky1000: 'hsl(198 98% 95.8%)',
-} as const;
+}

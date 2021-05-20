@@ -10,4 +10,4 @@ export const brown = {
   brown800: 'hsl(28 34% 51%)',
   brown900: 'hsl(28 60% 64.5%)',
   brown1000: 'hsl(30 67% 94%)',
-} as const;
+}
