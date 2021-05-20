@@ -10,4 +10,4 @@ export const slate = {
   slate800: 'hsl(206 6% 56.1%)',
   slate900: 'hsl(206 6% 43.5%)',
   slate1000: 'hsl(206 24% 9%)',
-} as const
+} as const;

@@ -10,4 +10,4 @@ export const gold = {
   gold800: 'hsl(36 20% 49.5%)',
   gold900: 'hsl(36 20% 39%)',
   gold1000: 'hsl(36 16% 20%)',
-} as const
+} as const;

@@ -10,4 +10,4 @@ export const quartz = {
   quartz800: 'hsl(252 4% 57.3%)',
   quartz900: 'hsl(252 4% 45%)',
   quartz1000: 'hsl(260 25% 11%)',
-} as const
+} as const;
