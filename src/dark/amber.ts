@@ -1,13 +1,13 @@
 export const amber = {
-  amber000: 'hsl(39 30% 8%)',
-  amber100: 'hsl(38 50% 8.6%)',
-  amber200: 'hsl(38 50.1% 10.1%)',
-  amber300: 'hsl(38 51.8% 12.1%)',
-  amber400: 'hsl(38 55.5% 14.8%)',
-  amber500: 'hsl(38 61.2% 18.6%)',
-  amber600: 'hsl(38 68.6% 24.9%)',
-  amber700: 'hsl(39 90.2% 48%)',
+  amber000: 'hsl(36 100% 6.1%)',
+  amber100: 'hsl(35 100% 7.1%)',
+  amber200: 'hsl(33 100% 8.3%)',
+  amber300: 'hsl(34 100% 9.9%)',
+  amber400: 'hsl(34 96.5% 12.1%)',
+  amber500: 'hsl(33 84.1% 16.2%)',
+  amber600: 'hsl(34 81.6% 21.1%)',
+  amber700: 'hsl(36 100% 25.5%)',
   amber800: 'hsl(39 100% 57%)',
-  amber900: 'hsl(39 90% 51.2%)',
+  amber900: 'hsl(39 90% 49.8%)',
   amber1000: 'hsl(39 97% 93.2%)',
-} as const
+} as const;
