@@ -181,7 +181,7 @@ High-contrast text
 -----
 
 ## Aliasing
-It can be helpful to semantic token aliases, so devs don't need to think as much about mapping steps to use cases.
+It can be helpful to provide semantic token aliases, so devs don't need to think as much about mapping steps to use cases.
 
 ```
 const { styled, theme } = createCss({
