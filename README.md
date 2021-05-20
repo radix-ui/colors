@@ -136,7 +136,7 @@ For interative UI element borders.
 For interative UI element hover state borders.
 
 ### 800 Pure
-For solid
+For solid backgrounds.
 
 - Solid button background.
 - Accent Header background.
