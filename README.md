@@ -10,11 +10,39 @@ Import only the scales you need for your project. Dark mode scale variants use a
 
 ```
 import {
+  // Grays
+  gray,
+  quartz,
   slate,
-  blue,
+  sage,
+  olive,
+  sand,
+  
+  // Colors
+  tomato,
   red,
-  yellow,
+  crimson,
+  pink,
+  plum,
+  purple,
+  violet,
+  indigo,
+  blue,
+  sky,
+  mint,
+  cyan,
+  teal,
   green,
+  grass,
+  lime,
+  yellow,
+  amber,
+  orange,
+  brown,
+  bronze,
+  gold,
+  
+  // Dark mode. All hues have a dark mode variant.
   slateDark,
   blueDark,
   redDark,
