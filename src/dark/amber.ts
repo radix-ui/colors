@@ -10,4 +10,4 @@ export const amber = {
   amber800: 'hsl(39 100% 57%)',
   amber900: 'hsl(39 90% 49.8%)',
   amber1000: 'hsl(39 97% 93.2%)',
-}
+};
