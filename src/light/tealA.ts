@@ -1,4 +1,4 @@
-export const tealAA = {
+export const tealA = {
   tealA1: 'hsl(165 95.2% 41.2% / 0.020)',
   tealA2: 'hsl(169 99.5% 39.4% / 0.055)',
   tealA3: 'hsl(167 97.6% 38.1% / 0.095)',

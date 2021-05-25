@@ -1,4 +1,4 @@
-export const sageAA = {
+export const sageA = {
   sageA1: 'hsl(150 92.6% 26.5% / 0.016)',
   sageA2: 'hsl(150 87.7% 16.0% / 0.028)',
   sageA3: 'hsl(160 98.4% 10.9% / 0.055)',

@@ -1,4 +1,4 @@
-export const mintAA = {
+export const mintA = {
   mintA1: 'hsl(168 95.4% 42.8% / 0.024)',
   mintA2: 'hsl(164 99.1% 47.1% / 0.063)',
   mintA3: 'hsl(165 99.6% 43.0% / 0.110)',

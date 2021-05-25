@@ -1,4 +1,4 @@
-export const brownAA = {
+export const brownA = {
   brownA1: 'hsl(30 94.3% 34.6% / 0.012)',
   brownA2: 'hsl(30 94.3% 34.6% / 0.036)',
   brownA3: 'hsl(30 97.7% 33.9% / 0.083)',

@@ -1,4 +1,4 @@
-export const bronzeAA = {
+export const bronzeA = {
   bronzeA1: 'hsl(0 89.3% 18.3% / 0.012)',
   bronzeA2: 'hsl(17 95.1% 40.1% / 0.036)',
   bronzeA3: 'hsl(18 98.3% 29.8% / 0.067)',

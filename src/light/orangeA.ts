@@ -1,4 +1,4 @@
-export const orangeAA = {
+export const orangeA = {
   orangeA1: 'hsl(20 94.9% 38.7% / 0.016)',
   orangeA2: 'hsl(24 95.8% 46.5% / 0.044)',
   orangeA3: 'hsl(25 100% 50.5% / 0.095)',

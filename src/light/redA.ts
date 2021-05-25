@@ -1,4 +1,4 @@
-export const redAA = {
+export const redA = {
   redA1: 'hsl(0 100% 51.0% / 0.012)',
   redA2: 'hsl(0 100% 51.0% / 0.028)',
   redA3: 'hsl(0 100% 50.2% / 0.063)',

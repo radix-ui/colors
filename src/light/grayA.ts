@@ -1,4 +1,4 @@
-export const grayAA = {
+export const grayA = {
   grayA1: 'hsl(0 0% 2.0% / 0.012)',
   grayA2: 'hsl(0 0% 2.0% / 0.028)',
   grayA3: 'hsl(0 0% 2.0% / 0.048)',

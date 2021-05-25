@@ -1,4 +1,4 @@
-export const plumAA = {
+export const plumA = {
   plumA1: 'hsl(280 100% 51.0% / 0.012)',
   plumA2: 'hsl(300 100% 51.0% / 0.028)',
   plumA3: 'hsl(300 99.0% 40.9% / 0.063)',

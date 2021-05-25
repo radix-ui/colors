@@ -1,4 +1,4 @@
-export const crimsonAA = {
+export const crimsonA = {
   crimsonA1: 'hsl(340 100% 51.0% / 0.012)',
   crimsonA2: 'hsl(330 100% 51.0% / 0.032)',
   crimsonA3: 'hsl(332 99.1% 47.1% / 0.063)',

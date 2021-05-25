@@ -1,4 +1,4 @@
-export const slateAA = {
+export const slateA = {
   slateA1: 'hsl(210 92.6% 26.5% / 0.016)',
   slateA2: 'hsl(210 87.7% 16.0% / 0.028)',
   slateA3: 'hsl(210 98.8% 14.4% / 0.055)',

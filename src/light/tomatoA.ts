@@ -1,4 +1,4 @@
-export const tomatoAA = {
+export const tomatoA = {
   tomatoA1: 'hsl(0 100% 51.0% / 0.012)',
   tomatoA2: 'hsl(8 100% 51.0% / 0.032)',
   tomatoA3: 'hsl(7 100% 50.2% / 0.067)',

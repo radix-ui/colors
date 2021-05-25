@@ -1,4 +1,4 @@
-export const grassAA = {
+export const grassA = {
   grassA1: 'hsl(120 94.9% 38.7% / 0.016)',
   grassA2: 'hsl(120 94.9% 38.7% / 0.048)',
   grassA3: 'hsl(120 98.0% 35.5% / 0.079)',
