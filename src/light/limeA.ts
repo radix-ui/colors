@@ -1,4 +1,4 @@
-export const limeA = {
+export const limeAA = {
   limeA1: 'hsl(80 93.8% 31.4% / 0.020)',
   limeA2: 'hsl(85 99.3% 40.2% / 0.059)',
   limeA3: 'hsl(84 99.3% 41.8% / 0.118)',

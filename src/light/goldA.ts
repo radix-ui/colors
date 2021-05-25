@@ -1,4 +1,4 @@
-export const goldA = {
+export const goldAA = {
   goldA1: 'hsl(60 89.3% 18.3% / 0.012)',
   goldA2: 'hsl(47 99.9% 34.6% / 0.051)',
   goldA3: 'hsl(45 97.0% 27.9% / 0.087)',

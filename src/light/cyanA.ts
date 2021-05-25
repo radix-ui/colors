@@ -1,4 +1,4 @@
-export const cyanA = {
+export const cyanAA = {
   cyanA1: 'hsl(195 95.2% 41.2% / 0.020)',
   cyanA2: 'hsl(185 99.9% 42.3% / 0.051)',
   cyanA3: 'hsl(186 97.8% 42.2% / 0.095)',

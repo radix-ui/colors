@@ -1,4 +1,4 @@
-export const sandA = {
+export const sandAA = {
   sandA1: 'hsl(60 89.3% 18.3% / 0.012)',
   sandA2: 'hsl(60 78.1% 9.0% / 0.028)',
   sandA3: 'hsl(60 99.0% 3.9% / 0.051)',

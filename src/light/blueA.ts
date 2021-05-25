@@ -1,4 +1,4 @@
-export const blueA = {
+export const blueAA = {
   blueA1: 'hsl(210 100% 51.0% / 0.016)',
   blueA2: 'hsl(210 100% 51.0% / 0.040)',
   blueA3: 'hsl(210 100% 50.3% / 0.071)',

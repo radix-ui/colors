@@ -1,4 +1,4 @@
-export const indigoA = {
+export const indigoAA = {
   indigoA1: 'hsl(240 92.6% 26.5% / 0.008)',
   indigoA2: 'hsl(223 100% 51.0% / 0.028)',
   indigoA3: 'hsl(224 100% 50.1% / 0.059)',

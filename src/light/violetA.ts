@@ -1,4 +1,4 @@
-export const violetA = {
+export const violetAA = {
   violetA1: 'hsl(270 94.3% 34.6% / 0.012)',
   violetA2: 'hsl(252 100% 51.0% / 0.020)',
   violetA3: 'hsl(254 100% 50.0% / 0.051)',

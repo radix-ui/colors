@@ -1,4 +1,4 @@
-export const pinkA = {
+export const pinkAA = {
   pinkA1: 'hsl(320 100% 51.0% / 0.012)',
   pinkA2: 'hsl(323 100% 51.0% / 0.032)',
   pinkA3: 'hsl(323 98.9% 47.3% / 0.067)',

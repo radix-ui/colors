@@ -1,4 +1,4 @@
-export const skyA = {
+export const skyAA = {
   skyA1: 'hsl(190 100% 51.0% / 0.024)',
   skyA2: 'hsl(193 100% 50.1% / 0.055)',
   skyA3: 'hsl(193 98.1% 48.4% / 0.095)',

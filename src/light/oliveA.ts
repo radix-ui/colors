@@ -1,4 +1,4 @@
-export const oliveA = {
+export const oliveAA = {
   oliveA1: 'hsl(120 89.3% 18.3% / 0.012)',
   oliveA2: 'hsl(120 87.7% 16.0% / 0.028)',
   oliveA3: 'hsl(120 99.5% 7.7% / 0.051)',
