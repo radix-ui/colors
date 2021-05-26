@@ -7,8 +7,8 @@ export const amber = {
   amber6: 'hsl(33 84.1% 16.2%)',
   amber7: 'hsl(34 81.6% 21.1%)',
   amber8: 'hsl(36 100% 25.5%)',
-  amber9: 'hsl(39 100% 57%)',
-  amber10: 'hsl(43 100% 64%)',
-  amber11: 'hsl(39 90% 49.8%)',
-  amber12: 'hsl(39 97% 93.2%)',
+  amber9: 'hsl(39 100% 57.0%)',
+  amber10: 'hsl(43 100% 64.0%)',
+  amber11: 'hsl(39 90.0% 49.8%)',
+  amber12: 'hsl(39 97.0% 93.2%)',
 };

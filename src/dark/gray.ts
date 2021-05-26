@@ -10,5 +10,5 @@ export const gray = {
   gray9: 'hsl(0 0% 43.9%)',
   gray10: 'hsl(0 0% 49.4%)',
   gray11: 'hsl(0 0% 62.8%)',
-  gray12: 'hsl(0 0% 93%)',
+  gray12: 'hsl(0 0% 93.0%)',
 };
