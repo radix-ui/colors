@@ -1,5 +1,5 @@
 export const tomatoA = {
-  tomatoA1: 'hsl(11 98.7% 80.8% / 0.114)',
+  tomatoA1: 'hsl(0 0% 0% / 0)',
   tomatoA2: 'hsl(0 100% 49.7% / 0.049)',
   tomatoA3: 'hsl(8 98.8% 51.2% / 0.098)',
   tomatoA4: 'hsl(6 99.8% 54.8% / 0.155)',

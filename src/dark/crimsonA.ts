@@ -1,5 +1,5 @@
 export const crimsonA = {
-  crimsonA1: 'hsl(333 98.5% 84.3% / 0.114)',
+  crimsonA1: 'hsl(0 0% 0% / 0)',
   crimsonA2: 'hsl(334 100% 49.3% / 0.036)',
   crimsonA3: 'hsl(333 97.8% 55.7% / 0.085)',
   crimsonA4: 'hsl(335 98.7% 59.3% / 0.138)',

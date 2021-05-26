@@ -1,5 +1,5 @@
 export const slateA = {
-  slateA1: 'hsl(200 87.0% 92.9% / 0.095)',
+  slateA1: 'hsl(0 0% 0% / 0)',
   slateA2: 'hsl(200 86.7% 99.3% / 0.013)',
   slateA3: 'hsl(182 86.7% 92.9% / 0.035)',
   slateA4: 'hsl(209 92.3% 92.4% / 0.061)',

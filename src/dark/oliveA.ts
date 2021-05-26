@@ -1,5 +1,5 @@
 export const oliveA = {
-  oliveA1: 'hsl(120 83.0% 94.8% / 0.091)',
+  oliveA1: 'hsl(0 0% 0% / 0)',
   oliveA2: 'hsl(62 97.0% 84.0% / 0.013)',
   oliveA3: 'hsl(91 89.6% 87.1% / 0.035)',
   oliveA4: 'hsl(66 71.3% 94.6% / 0.057)',

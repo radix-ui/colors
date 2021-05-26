@@ -1,5 +1,5 @@
 export const amberA = {
-  amberA1: 'hsl(37 100% 49.8% / 0.122)',
+  amberA1: 'hsl(0 0% 0% / 0)',
   amberA2: 'hsl(26 100% 48.7% / 0.023)',
   amberA3: 'hsl(24 100% 49.2% / 0.050)',
   amberA4: 'hsl(32 100% 49.9% / 0.085)',

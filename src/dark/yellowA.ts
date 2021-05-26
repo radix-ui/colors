@@ -1,5 +1,5 @@
 export const yellowA = {
-  yellowA1: 'hsl(45 100% 49.9% / 0.110)',
+  yellowA1: 'hsl(0 0% 0% / 0)',
   yellowA2: 'hsl(45 100% 49.1% / 0.018)',
   yellowA3: 'hsl(39 100% 49.5% / 0.049)',
   yellowA4: 'hsl(46 100% 49.6% / 0.080)',

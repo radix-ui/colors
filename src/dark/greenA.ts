@@ -1,5 +1,5 @@
 export const greenA = {
-  greenA1: 'hsl(145 96.1% 75.3% / 0.099)',
+  greenA1: 'hsl(0 0% 0% / 0)',
   greenA2: 'hsl(178 100% 48.5% / 0.018)',
   greenA3: 'hsl(167 96.6% 59.2% / 0.053)',
   greenA4: 'hsl(160 99.9% 61.5% / 0.087)',

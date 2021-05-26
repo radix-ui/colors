@@ -1,5 +1,5 @@
 export const mauveA = {
-  mauveA1: 'hsl(240 81.6% 94.9% / 0.095)',
+  mauveA1: 'hsl(0 0% 0% / 0)',
   mauveA2: 'hsl(240 76.6% 85.3% / 0.018)',
   mauveA3: 'hsl(240 98.4% 94.5% / 0.039)',
   mauveA4: 'hsl(240 98.6% 93.5% / 0.065)',

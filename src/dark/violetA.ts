@@ -1,5 +1,5 @@
 export const violetA = {
-  violetA1: 'hsl(252 97.8% 83.6% / 0.122)',
+  violetA1: 'hsl(0 0% 0% / 0)',
   violetA2: 'hsl(258 96.3% 57.3% / 0.050)',
   violetA3: 'hsl(253 99.2% 63.5% / 0.103)',
   violetA4: 'hsl(253 98.8% 64.5% / 0.166)',

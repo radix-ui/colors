@@ -1,5 +1,5 @@
 export const purpleA = {
-  purpleA1: 'hsl(287 98.5% 84.3% / 0.114)',
+  purpleA1: 'hsl(0 0% 0% / 0)',
   purpleA2: 'hsl(285 96.8% 53.2% / 0.036)',
   purpleA3: 'hsl(281 97.6% 60.4% / 0.085)',
   purpleA4: 'hsl(283 98.6% 62.2% / 0.138)',
