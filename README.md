@@ -2,7 +2,7 @@
 A quick guide on using Radix Colors with Stitches.
 
 ## Documentation
-For full documentation, visit radix-ui.com/docs/colors.
+For full documentation, visit [radix-ui.com/docs/primitives](https://radix-ui.com/docs/colors).
 
 ## Installation
 
