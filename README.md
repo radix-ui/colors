@@ -8,8 +8,6 @@ For full documentation, visit [radix-ui.com/docs/colors](https://radix-ui.com/do
 
 `yarn add @radix-ui/colors`
 
-=======
-
 ## Authors
 
 - Colm Tuite ([@colmtuite](https://twitter.com/colmtuite))
