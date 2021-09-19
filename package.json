@@ -7,7 +7,7 @@
   ],
   "main": "index.js",
   "module": "index.mjs",
-  "typings": "types/index.d.ts",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "yarn clean && yarn && rollup -c && yarn build-css-modules",
     "build-css-modules": "node ./scripts/build-css-modules.js",
