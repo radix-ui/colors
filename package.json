@@ -1,13 +1,13 @@
 {
   "name": "@radix-ui/colors",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "contributors": [
     "Colm Tuite <colm@modulz.app>",
     "Vlad Moroz <vlad@modulz.app>"
   ],
   "main": "index.js",
   "module": "index.mjs",
-  "typings": "types/index.d.ts",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "yarn clean && yarn && rollup -c && yarn build-css-modules",
     "build-css-modules": "node ./scripts/build-css-modules.js",
