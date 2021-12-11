@@ -2,5 +2,6 @@
 /types
 .DS_Store
 /*.css
+/*.scss
 index.js
 index.mjs
