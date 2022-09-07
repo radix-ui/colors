@@ -1,6 +1,6 @@
 {
   "name": "radix-chakra-colors",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "module": "index.mjs",
   "types": "types/index.d.ts",
