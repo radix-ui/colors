@@ -1,10 +1,10 @@
 import { extendTheme } from "@chakra-ui/react";
-import { lightColors, darkColors } from "../src";
+import { light, dark } from "../src";
 
 const theme = extendTheme({
   colors: {
-    lightColors,
-    darkColors,
+    light,
+    dark,
   },
 });
 
