@@ -1,4 +1,6 @@
-# Radix Colors
+# Radix Chakra Colors
+
+A fork of `@radix-ui/colors` with chakra ui's theme support.
 
 A quick guide on using Radix Colors with Stitches.
 
