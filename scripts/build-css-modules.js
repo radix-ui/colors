@@ -6,8 +6,8 @@ const outputDir = require("../tsconfig.json").compilerOptions.outDir;
 
 Object.entries(allColorScales).forEach(([colorScaleName, scale]) => {
   const selector = /DarkA?$/.test(colorScaleName)
-    ? ".dark-theme"
-    : ":root, .light-theme";
+    ? ".dark, .dark-theme"
+    : ":root, .light, .light-theme";
 
   const scaleAsCssProperties = Object.entries(scale)
     .map(([name, value]) => [toCssCasing(name), value])
