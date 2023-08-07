@@ -418,8 +418,8 @@ export const orangeDark = {
   orange12: "hsl(30, 100%, 88.0%)",
 };
 
-export const grayDarkA = {
-  grayA1: "hsla(0, 0%, 0%, 0)",
+export const grayA = {
+  grayA1: "hsla(0, 0%, 100%, 0)",
   grayA2: "hsla(0, 0%, 100%, 0.013)",
   grayA3: "hsla(0, 0%, 100%, 0.069)",
   grayA4: "hsla(0, 0%, 100%, 0.104)",
@@ -433,8 +433,8 @@ export const grayDarkA = {
   grayA12: "hsla(0, 0%, 100%, 0.926)",
 };
 
-export const mauveDarkA = {
-  mauveA1: "hsla(0, 0%, 0%, 0)",
+export const mauveA = {
+  mauveA1: "hsla(300, 100%, 43.9%, 0.005)",
   mauveA2: "hsla(300, 99.7%, 69.7%, 0.026)",
   mauveA3: "hsla(288, 96.3%, 88.3%, 0.087)",
   mauveA4: "hsla(280, 96.6%, 90.3%, 0.126)",
@@ -448,8 +448,8 @@ export const mauveDarkA = {
   mauveA12: "hsla(240, 82.2%, 99.5%, 0.936)",
 };
 
-export const slateDarkA = {
-  slateA1: "hsla(0, 0%, 0%, 0)",
+export const slateA = {
+  slateA1: "hsla(240, 92.7%, 53.0%, 0.009)",
   slateA2: "hsla(240, 92.5%, 72.7%, 0.031)",
   slateA3: "hsla(230, 99.3%, 87.0%, 0.091)",
   slateA4: "hsla(223, 97.1%, 88.8%, 0.126)",
@@ -463,8 +463,8 @@ export const slateDarkA = {
   slateA12: "hsla(220, 87.4%, 99.3%, 0.936)",
 };
 
-export const sageDarkA = {
-  sageA1: "hsla(0, 0%, 0%, 0)",
+export const sageA = {
+  sageA1: "hsla(160, 98.9%, 7.1%, 0.084)",
   sageA2: "hsla(150, 92.7%, 53.0%, 0.018)",
   sageA3: "hsla(150, 95.5%, 88.9%, 0.074)",
   sageA4: "hsla(156, 93.3%, 90.4%, 0.109)",
@@ -478,8 +478,8 @@ export const sageDarkA = {
   sageA12: "hsla(150, 88.0%, 99.5%, 0.927)",
 };
 
-export const oliveDarkA = {
-  oliveA1: "hsla(0, 0%, 0%, 0)",
+export const oliveA = {
+  oliveA1: "hsla(100, 98.9%, 7.1%, 0.084)",
   oliveA2: "hsla(120, 90.5%, 63.9%, 0.018)",
   oliveA3: "hsla(120, 94.1%, 91.6%, 0.074)",
   oliveA4: "hsla(120, 91.8%, 92.2%, 0.109)",
@@ -493,8 +493,8 @@ export const oliveDarkA = {
   oliveA12: "hsla(120, 88.0%, 99.5%, 0.927)",
 };
 
-export const sandDarkA = {
-  sandA1: "hsla(0, 0%, 0%, 0)",
+export const sandA = {
+  sandA1: "hsla(60, 98.4%, 4.7%, 0.084)",
   sandA2: "hsla(60, 99.4%, 84.8%, 0.013)",
   sandA3: "hsla(60, 85.5%, 93.4%, 0.070)",
   sandA4: "hsla(60, 97.7%, 96.1%, 0.104)",
@@ -508,8 +508,8 @@ export const sandDarkA = {
   sandA12: "hsla(60, 88.0%, 99.5%, 0.927)",
 };
 
-export const tomatoDarkA = {
-  tomatoA1: "hsla(0, 0%, 0%, 0)",
+export const tomatoA = {
+  tomatoA1: "hsla(11, 100%, 8.6%, 0.250)",
   tomatoA2: "hsla(0, 100%, 49.8%, 0.074)",
   tomatoA3: "hsla(9, 100%, 49.9%, 0.152)",
   tomatoA4: "hsla(9, 99.5%, 52.7%, 0.204)",
@@ -523,8 +523,8 @@ export const tomatoDarkA = {
   tomatoA12: "hsla(10, 99.7%, 90.4%, 0.983)",
 };
 
-export const redDarkA = {
-  redA1: "hsla(0, 0%, 0%, 0)",
+export const redA = {
+  redA1: "hsla(350, 99.7%, 11.3%, 0.209)",
   redA2: "hsla(354, 100%, 49.8%, 0.074)",
   redA3: "hsla(353, 99.3%, 55.9%, 0.152)",
   redA4: "hsla(352, 99.8%, 56.5%, 0.208)",
@@ -538,8 +538,8 @@ export const redDarkA = {
   redA12: "hsla(350, 100%, 91.0%, 1)",
 };
 
-export const crimsonDarkA = {
-  crimsonA1: "hsla(0, 0%, 0%, 0)",
+export const crimsonA = {
+  crimsonA1: "hsla(354, 100%, 49.3%, 0.022)",
   crimsonA2: "hsla(338, 100%, 49.8%, 0.074)",
   crimsonA3: "hsla(335, 99.8%, 54.7%, 0.143)",
   crimsonA4: "hsla(336, 99.4%, 56.6%, 0.191)",
@@ -553,8 +553,8 @@ export const crimsonDarkA = {
   crimsonA12: "hsla(330, 99.3%, 91.6%, 0.992)",
 };
 
-export const pinkDarkA = {
-  pinkA1: "hsla(0, 0%, 0%, 0)",
+export const pinkA = {
+  pinkA1: "hsla(331, 100%, 49.0%, 0.031)",
   pinkA2: "hsla(319, 100%, 49.8%, 0.074)",
   pinkA3: "hsla(318, 98.8%, 55.9%, 0.135)",
   pinkA4: "hsla(319, 99.4%, 59.0%, 0.178)",
@@ -568,8 +568,8 @@ export const pinkDarkA = {
   pinkA12: "hsla(326, 99.3%, 91.2%, 0.992)",
 };
 
-export const plumDarkA = {
-  plumA1: "hsla(0, 0%, 0%, 0)",
+export const plumA = {
+  plumA1: "hsla(300, 100%, 49.3%, 0.022)",
   plumA2: "hsla(300, 100%, 49.7%, 0.061)",
   plumA3: "hsla(300, 98.6%, 59.2%, 0.122)",
   plumA4: "hsla(298, 99.3%, 62.9%, 0.165)",
@@ -583,8 +583,8 @@ export const plumDarkA = {
   plumA12: "hsla(300, 99.1%, 93.4%, 0.953)",
 };
 
-export const purpleDarkA = {
-  purpleA1: "hsla(0, 0%, 0%, 0)",
+export const purpleA = {
+  purpleA1: "hsla(278, 100%, 49.3%, 0.022)",
   purpleA2: "hsla(283, 100%, 49.5%, 0.070)",
   purpleA3: "hsla(282, 98.8%, 59.8%, 0.148)",
   purpleA4: "hsla(281, 99.0%, 62.4%, 0.200)",
@@ -598,8 +598,8 @@ export const purpleDarkA = {
   purpleA12: "hsla(275, 99.1%, 93.3%, 0.979)",
 };
 
-export const violetDarkA = {
-  violetA1: "hsla(0, 0%, 0%, 0)",
+export const violetA = {
+  violetA1: "hsla(240, 100%, 49.0%, 0.031)",
   violetA2: "hsla(255, 98.3%, 51.9%, 0.083)",
   violetA3: "hsla(255, 99.8%, 62.8%, 0.169)",
   violetA4: "hsla(252, 99.0%, 65.8%, 0.226)",
@@ -613,8 +613,8 @@ export const violetDarkA = {
   violetA12: "hsla(249, 99.5%, 93.5%, 0.996)",
 };
 
-export const indigoDarkA = {
-  indigoA1: "hsla(0, 0%, 0%, 0)",
+export const indigoA = {
+  indigoA1: "hsla(240, 100%, 49.5%, 0.035)",
   indigoA2: "hsla(232, 100%, 50.0%, 0.091)",
   indigoA3: "hsla(228, 99.8%, 56.8%, 0.182)",
   indigoA4: "hsla(228, 99.2%, 59.5%, 0.239)",
@@ -628,8 +628,8 @@ export const indigoDarkA = {
   indigoA12: "hsla(236, 99.5%, 93.5%, 0.996)",
 };
 
-export const blueDarkA = {
-  blueA1: "hsla(0, 0%, 0%, 0)",
+export const blueA = {
+  blueA1: "hsla(212, 100%, 8.9%, 0.375)",
   blueA2: "hsla(227, 100%, 50.0%, 0.091)",
   blueA3: "hsla(216, 100%, 50.0%, 0.169)",
   blueA4: "hsla(214, 100%, 49.8%, 0.226)",
@@ -643,8 +643,8 @@ export const blueDarkA = {
   blueA12: "hsla(206, 100%, 88.0%, 1)",
 };
 
-export const cyanDarkA = {
-  cyanA1: "hsla(0, 0%, 0%, 0)",
+export const cyanA = {
+  cyanA1: "hsla(191, 99.9%, 6.1%, 0.709)",
   cyanA2: "hsla(207, 100%, 49.3%, 0.044)",
   cyanA3: "hsla(197, 100%, 49.6%, 0.096)",
   cyanA4: "hsla(194, 100%, 49.7%, 0.135)",
@@ -658,8 +658,8 @@ export const cyanDarkA = {
   cyanA12: "hsla(190, 99.6%, 86.7%, 0.966)",
 };
 
-export const tealDarkA = {
-  tealA1: "hsla(0, 0%, 0%, 0)",
+export const tealA = {
+  tealA1: "hsla(166, 100%, 5.3%, 0.625)",
   tealA2: "hsla(166, 100%, 6.9%, 0.625)",
   tealA3: "hsla(161, 100%, 49.8%, 0.074)",
   tealA4: "hsla(167, 100%, 49.7%, 0.109)",
@@ -673,8 +673,8 @@ export const tealDarkA = {
   tealA12: "hsla(163, 99.4%, 85.9%, 0.936)",
 };
 
-export const greenDarkA = {
-  greenA1: "hsla(0, 0%, 0%, 0)",
+export const greenA = {
+  greenA1: "hsla(145, 99.7%, 5.1%, 0.459)",
   greenA2: "hsla(154, 100%, 7.3%, 0.375)",
   greenA3: "hsla(149, 100%, 49.5%, 0.070)",
   greenA4: "hsla(154, 100%, 49.7%, 0.109)",
@@ -688,8 +688,8 @@ export const greenDarkA = {
   greenA12: "hsla(144, 99.6%, 86.6%, 0.940)",
 };
 
-export const grassDarkA = {
-  grassA1: "hsla(0, 0%, 0%, 0)",
+export const grassA = {
+  grassA1: "hsla(145, 99.7%, 5.1%, 0.459)",
   grassA2: "hsla(138, 99.7%, 9.4%, 0.209)",
   grassA3: "hsla(139, 97.9%, 54.2%, 0.070)",
   grassA4: "hsla(137, 99.8%, 60.3%, 0.104)",
@@ -703,8 +703,8 @@ export const grassDarkA = {
   grassA12: "hsla(120, 99.1%, 90.3%, 0.936)",
 };
 
-export const brownDarkA = {
-  brownA1: "hsla(0, 0%, 0%, 0)",
+export const brownA = {
+  brownA1: "hsla(17, 99.5%, 6.6%, 0.209)",
   brownA2: "hsla(24, 100%, 50.0%, 0.026)",
   brownA3: "hsla(25, 98.5%, 67.7%, 0.074)",
   brownA4: "hsla(26, 97.8%, 70.6%, 0.109)",
@@ -718,8 +718,8 @@ export const brownDarkA = {
   brownA12: "hsla(34, 99.7%, 91.7%, 0.944)",
 };
 
-export const bronzeDarkA = {
-  bronzeA1: "hsla(0, 0%, 0%, 0)",
+export const bronzeA = {
+  bronzeA1: "hsla(12, 99.7%, 5.9%, 0.167)",
   bronzeA2: "hsla(15, 92.7%, 53.0%, 0.018)",
   bronzeA3: "hsla(17, 99.6%, 78.8%, 0.065)",
   bronzeA4: "hsla(18, 99.5%, 81.1%, 0.104)",
@@ -733,8 +733,8 @@ export const bronzeDarkA = {
   bronzeA12: "hsla(21, 97.9%, 95.7%, 0.923)",
 };
 
-export const goldDarkA = {
-  goldA1: "hsla(0, 0%, 0%, 0)",
+export const goldA = {
+  goldA1: "hsla(45, 99.2%, 3.8%, 0.209)",
   goldA2: "hsla(42, 100%, 50.0%, 0.013)",
   goldA3: "hsla(50, 99.6%, 77.3%, 0.052)",
   goldA4: "hsla(45, 97.6%, 81.5%, 0.087)",
@@ -748,8 +748,8 @@ export const goldDarkA = {
   goldA12: "hsla(36, 98.3%, 96.7%, 0.901)",
 };
 
-export const skyDarkA = {
-  skyA1: "hsla(0, 0%, 0%, 0)",
+export const skyA = {
+  skyA1: "hsla(204, 100%, 7.8%, 0.500)",
   skyA2: "hsla(215, 100%, 49.7%, 0.061)",
   skyA3: "hsla(204, 100%, 50.0%, 0.117)",
   skyA4: "hsla(201, 100%, 49.8%, 0.161)",
@@ -763,8 +763,8 @@ export const skyDarkA = {
   skyA12: "hsla(192, 100%, 88.0%, 1)",
 };
 
-export const mintDarkA = {
-  mintA1: "hsla(0, 0%, 0%, 0)",
+export const mintA = {
+  mintA1: "hsla(173, 99.9%, 5.0%, 0.667)",
   mintA2: "hsla(174, 99.8%, 7.1%, 0.584)",
   mintA3: "hsla(174, 100%, 49.8%, 0.074)",
   mintA4: "hsla(172, 100%, 49.8%, 0.113)",
@@ -778,8 +778,8 @@ export const mintDarkA = {
   mintA12: "hsla(156, 99.7%, 89.9%, 0.957)",
 };
 
-export const limeDarkA = {
-  limeA1: "hsla(0, 0%, 0%, 0)",
+export const limeA = {
+  limeA1: "hsla(74, 99.8%, 4.7%, 0.709)",
   limeA2: "hsla(78, 100%, 6.7%, 0.500)",
   limeA3: "hsla(89, 100%, 50.0%, 0.065)",
   limeA4: "hsla(84, 100%, 49.8%, 0.100)",
@@ -793,8 +793,8 @@ export const limeDarkA = {
   limeA12: "hsla(80, 99.5%, 87.6%, 0.966)",
 };
 
-export const yellowDarkA = {
-  yellowA1: "hsla(0, 0%, 0%, 0)",
+export const yellowA = {
+  yellowA1: "hsla(45, 100%, 5.5%, 1)",
   yellowA2: "hsla(44, 99.9%, 7.1%, 0.834)",
   yellowA3: "hsla(36, 100%, 49.8%, 0.087)",
   yellowA4: "hsla(41, 100%, 49.7%, 0.122)",
@@ -808,8 +808,8 @@ export const yellowDarkA = {
   yellowA12: "hsla(53, 100%, 83.9%, 1)",
 };
 
-export const amberDarkA = {
-  amberA1: "hsla(0, 0%, 0%, 0)",
+export const amberA = {
+  amberA1: "hsla(37, 100%, 6.1%, 1)",
   amberA2: "hsla(36, 99.9%, 7.8%, 0.834)",
   amberA3: "hsla(24, 100%, 50.0%, 0.104)",
   amberA4: "hsla(30, 100%, 50.0%, 0.143)",
@@ -823,8 +823,8 @@ export const amberDarkA = {
   amberA12: "hsla(41, 100%, 85.1%, 1)",
 };
 
-export const orangeDarkA = {
-  orangeA1: "hsla(0, 0%, 0%, 0)",
+export const orangeA = {
+  orangeA1: "hsla(29, 100%, 6.5%, 0.750)",
   orangeA2: "hsla(29, 99.9%, 8.2%, 0.834)",
   orangeA3: "hsla(13, 100%, 49.7%, 0.122)",
   orangeA4: "hsla(20, 100%, 50.0%, 0.169)",
