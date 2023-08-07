@@ -10,5 +10,5 @@ export const blackA = {
   blackA9: "hsla(0, 0%, 0%, 0.447)",
   blackA10: "hsla(0, 0%, 0%, 0.498)",
   blackA11: "hsla(0, 0%, 0%, 0.608)",
-  blackA12: "hsla(0, 0%, 0%, 0.812)",
+  blackA12: "hsla(0, 0%, 0%, 0.875)",
 };

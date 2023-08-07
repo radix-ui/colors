@@ -5,7 +5,9 @@ const allColorScales = require("../index");
 const outputDir = require("../tsconfig.json").compilerOptions.outDir;
 
 Object.entries(allColorScales).forEach(([colorScaleName, scale]) => {
-  const selector = /DarkA?$/.test(colorScaleName)
+  const selector = /blackA|whiteA/.test(colorScaleName)
+    ? ":root"
+    : /DarkA?$/.test(colorScaleName)
     ? ".dark, .dark-theme"
     : ":root, .light, .light-theme";
 
