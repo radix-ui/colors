@@ -8,7 +8,7 @@
 
 ## Documentation
 
-For full documentation, visit [radix-ui.com/docs/colors](https://radix-ui.com/docs/colors).
+For full documentation, visit [radix-ui.com/colors/docs](https://radix-ui.com/colors/docs).
 
 ## Installation
 
