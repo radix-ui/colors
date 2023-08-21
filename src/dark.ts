@@ -118,6 +118,21 @@ export const redDark = {
   red12: "hsl(350, 100%, 91.0%)",
 };
 
+export const rubyDark = {
+  ruby1: "hsl(343, 23.0%, 10.0%)",
+  ruby2: "hsl(349, 33.3%, 12.4%)",
+  ruby3: "hsl(348, 42.2%, 16.4%)",
+  ruby4: "hsl(348, 46.8%, 19.1%)",
+  ruby5: "hsl(348, 50.7%, 21.7%)",
+  ruby6: "hsl(348, 56.0%, 25.7%)",
+  ruby7: "hsl(348, 64.3%, 33.0%)",
+  ruby8: "hsl(348, 77.0%, 46.1%)",
+  ruby9: "hsl(348, 75.0%, 58.5%)",
+  ruby10: "hsl(349, 84.1%, 67.1%)",
+  ruby11: "hsl(348, 100%, 76.0%)",
+  ruby12: "hsl(340, 95.0%, 91.0%)",
+};
+
 export const crimsonDark = {
   crimson1: "hsl(335, 20.0%, 9.6%)",
   crimson2: "hsl(336, 32.3%, 12.2%)",
@@ -193,6 +208,21 @@ export const violetDark = {
   violet12: "hsl(250, 93.0%, 93.0%)",
 };
 
+export const irisDark = {
+  iris1: "hsl(240, 22.0%, 10.5%)",
+  iris2: "hsl(243, 30.4%, 13.5%)",
+  iris3: "hsl(242, 32.6%, 18.9%)",
+  iris4: "hsl(241, 33.5%, 22.6%)",
+  iris5: "hsl(241, 34.2%, 26.1%)",
+  iris6: "hsl(240, 35.0%, 31.0%)",
+  iris7: "hsl(240, 36.0%, 39.4%)",
+  iris8: "hsl(240, 45.2%, 54.9%)",
+  iris9: "hsl(240, 60.0%, 59.8%)",
+  iris10: "hsl(241, 66.4%, 65.7%)",
+  iris11: "hsl(242, 100%, 81.0%)",
+  iris12: "hsl(242, 92.0%, 93.5%)",
+};
+
 export const indigoDark = {
   indigo1: "hsl(229, 24.0%, 10.0%)",
   indigo2: "hsl(230, 36.4%, 12.9%)",
@@ -251,6 +281,21 @@ export const tealDark = {
   teal10: "hsl(172, 89.5%, 38.8%)",
   teal11: "hsl(170, 90.0%, 44.5%)",
   teal12: "hsl(163, 70.0%, 81.0%)",
+};
+
+export const jadeDark = {
+  jade1: "hsl(152, 53.0%, 6.5%)",
+  jade2: "hsl(153, 47.6%, 8.2%)",
+  jade3: "hsl(154, 46.7%, 11.0%)",
+  jade4: "hsl(155, 47.0%, 13.2%)",
+  jade5: "hsl(156, 47.7%, 15.3%)",
+  jade6: "hsl(158, 49.0%, 18.5%)",
+  jade7: "hsl(160, 52.0%, 24.2%)",
+  jade8: "hsl(164, 59.8%, 34.1%)",
+  jade9: "hsl(164, 60.0%, 40.0%)",
+  jade10: "hsl(164, 66.8%, 43.7%)",
+  jade11: "hsl(163, 75.0%, 48.4%)",
+  jade12: "hsl(155, 70.0%, 81.0%)",
 };
 
 export const greenDark = {
@@ -538,6 +583,21 @@ export const redDarkA = {
   redA12: "hsla(350, 100%, 91.0%, 1)",
 };
 
+export const rubyDarkA = {
+  rubyA1: "hsla(0, 100%, 49.0%, 0.031)",
+  rubyA2: "hsla(351, 100%, 50.0%, 0.078)",
+  rubyA3: "hsla(348, 99.4%, 54.6%, 0.152)",
+  rubyA4: "hsla(348, 99.5%, 56.5%, 0.204)",
+  rubyA5: "hsla(347, 99.5%, 56.9%, 0.256)",
+  rubyA6: "hsla(348, 99.8%, 57.6%, 0.338)",
+  rubyA7: "hsla(348, 99.8%, 57.0%, 0.494)",
+  rubyA8: "hsla(348, 99.9%, 55.4%, 0.797)",
+  rubyA9: "hsla(348, 99.8%, 64.8%, 0.888)",
+  rubyA10: "hsla(349, 99.9%, 70.7%, 0.944)",
+  rubyA11: "hsla(348, 100%, 76.1%, 1)",
+  rubyA12: "hsla(340, 99.7%, 91.3%, 0.996)",
+};
+
 export const crimsonDarkA = {
   crimsonA1: "hsla(354, 100%, 49.3%, 0.022)",
   crimsonA2: "hsla(338, 100%, 49.8%, 0.074)",
@@ -613,6 +673,21 @@ export const violetDarkA = {
   violetA12: "hsla(249, 99.5%, 93.5%, 0.996)",
 };
 
+export const irisDarkA = {
+  irisA1: "hsla(240, 100%, 50.0%, 0.039)",
+  irisA2: "hsla(243, 99.8%, 54.7%, 0.091)",
+  irisA3: "hsla(244, 98.8%, 63.5%, 0.174)",
+  irisA4: "hsla(242, 99.3%, 66.5%, 0.230)",
+  irisA5: "hsla(241, 99.4%, 68.5%, 0.282)",
+  irisA6: "hsla(240, 99.4%, 69.3%, 0.360)",
+  irisA7: "hsla(240, 99.5%, 70.6%, 0.490)",
+  irisA8: "hsla(240, 99.7%, 71.9%, 0.728)",
+  irisA9: "hsla(240, 99.8%, 70.6%, 0.823)",
+  irisA10: "hsla(241, 99.8%, 73.7%, 0.875)",
+  irisA11: "hsla(242, 100%, 81.0%, 1)",
+  irisA12: "hsla(242, 99.5%, 93.9%, 0.996)",
+};
+
 export const indigoDarkA = {
   indigoA1: "hsla(240, 100%, 49.5%, 0.035)",
   indigoA2: "hsla(232, 100%, 50.0%, 0.091)",
@@ -671,6 +746,21 @@ export const tealDarkA = {
   tealA10: "hsla(172, 99.9%, 50.8%, 0.706)",
   tealA11: "hsla(170, 99.8%, 51.6%, 0.832)",
   tealA12: "hsla(163, 99.4%, 85.9%, 0.936)",
+};
+
+export const jadeDarkA = {
+  jadeA1: "hsla(120, 100%, 43.9%, 0.005)",
+  jadeA2: "hsla(120, 100%, 49.0%, 0.031)",
+  jadeA3: "hsla(145, 100%, 49.8%, 0.074)",
+  jadeA4: "hsla(152, 100%, 49.7%, 0.109)",
+  jadeA5: "hsla(156, 100%, 49.8%, 0.148)",
+  jadeA6: "hsla(158, 99.1%, 54.5%, 0.200)",
+  jadeA7: "hsla(159, 99.3%, 58.4%, 0.304)",
+  jadeA8: "hsla(164, 99.9%, 59.0%, 0.498)",
+  jadeA9: "hsla(164, 99.9%, 60.2%, 0.602)",
+  jadeA10: "hsla(164, 99.8%, 58.3%, 0.702)",
+  jadeA11: "hsla(163, 99.8%, 56.3%, 0.832)",
+  jadeA12: "hsla(155, 99.4%, 85.9%, 0.936)",
 };
 
 export const greenDarkA = {
