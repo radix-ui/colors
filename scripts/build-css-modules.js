@@ -12,14 +12,12 @@ Object.keys(allColorScales)
   .forEach((key) => {
     let selector = ":root, .light, .light-theme";
 
-    if (key.includes("Dark")) {
-      selector = ".dark, .dark-theme";
+    if (key === "blackA" || key === "whiteA") {
+      selector = ":root";
     }
 
-    const isNeutral = key === "blackA" || key === "whiteA";
-
-    if (isNeutral) {
-      selector = ":root";
+    if (key.includes("Dark")) {
+      selector = ".dark, .dark-theme";
     }
 
     const srgbValues = Object.entries(allColorScales).find(
@@ -32,15 +30,6 @@ Object.keys(allColorScales)
       .join("\n");
 
     const srgbCssRule = `${selector} {\n${srgbCssProperties}\n}`;
-
-    if (isNeutral) {
-      fs.writeFileSync(
-        path.join(outputDir, toFileName(key) + ".css"),
-        srgbCssRule
-      );
-
-      return;
-    }
 
     const p3Values = Object.entries(allColorScales).find(
       ([name]) => name === key + "P3" || name === key.replace(/.$/, "P3A")
