@@ -8,6 +8,14 @@
   "main": "index.js",
   "module": "index.mjs",
   "types": "types/index.d.ts",
+  "homepage": "https://www.radix-ui.com/colors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radix-ui/colors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radix-ui/colors/issues"
+  },
   "scripts": {
     "build": "yarn clean && yarn && rollup -c && yarn build-css-modules",
     "build-css-modules": "node ./scripts/build-css-modules.js",
